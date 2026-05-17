@@ -1,3 +1,8 @@
+# Current Maintenance State
+As the key driver of this project, (Verkehrsverbund Pforzheim-Enzkreis)[https://de.wikipedia.org/wiki/Verkehrsverbund_Pforzheim-Enzkreis] is beeing dissoluted actually and there's no interest to maintain this project anymore, this repo will not be maintaned actively anymore.
+
+There're many different providers for solutions like that out there. Github Copilot helps you also to build one.
+
 # GTFS-DuckDB
 This package provides several python utilities to read, aggregate, merge, modify and export [GTFS](https://gtfs.org/) compliant static and realtime data. The package works without any database server using a [DuckDB](https://duckdb.org/).
 
